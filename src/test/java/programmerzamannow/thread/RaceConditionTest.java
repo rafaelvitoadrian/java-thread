@@ -2,7 +2,7 @@ package programmerzamannow.thread;
 
 import org.junit.jupiter.api.Test;
 
-public class RaceConditionTesst {
+public class RaceConditionTest {
 
     @Test
     void counter() throws InterruptedException{
